@@ -16,9 +16,7 @@ The project is inspired by internship/job platforms and focuses on clean UI, res
   - Duration
   - Stipend
 - Pagination support
-- Responsive design for mobile and desktop
 - Loading and error handling
-- Smooth scroll to top on page change
 
 ---
 
@@ -49,8 +47,6 @@ src
 - Internship data is fetched from an API
 - Filters update the internship list dynamically
 - Pagination is used to show limited internships per page
-- On changing pages, the screen scrolls back to the top automatically
-
 ---
 
 ## Author
